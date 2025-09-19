@@ -72,13 +72,13 @@ Installation
 ## 📂 Project Structure
 
 ```
-ai-study-planner-agent/
-│── app.py               # Main Flask application
-│── planner.py           # AI logic and study planning functions
-│── requirements.txt     # Project dependencies
-│── .env                 # Environment variables (not committed)
-│── README.md            # Project documentation
-```
+study-planner/
+├── backend/
+│   ├── .env
+│   ├── app.py
+│   └── gemini_client.py
+└── templates/
+    └── index.html
 
 ---
 
