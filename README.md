@@ -100,11 +100,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-* **Your Name** – [GitHub](https://github.com/yourusername)
+Tamilmani027– [GitHub](https://github.com/Tamilmani027)
 
-```
 
----
-
-Do you want me to also **generate a `requirements.txt`** file with the exact libraries (`flask`, `google-generativeai`, `python-dotenv`, `requests`, `duckduckgo-search`) so your README and repo are ready to run?
-```
