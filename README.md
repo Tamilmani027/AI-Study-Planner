@@ -69,7 +69,7 @@ Installation
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 ```
 study-planner/
@@ -81,24 +81,12 @@ study-planner/
     └── index.html
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
----
-
-## 📜 License
+📜 License
 
 This project is licensed under the MIT License.
 
 ---
-
-## 👨‍💻 Author
+👨‍💻 Author
 
 Tamilmani027– [GitHub](https://github.com/Tamilmani027)
 
