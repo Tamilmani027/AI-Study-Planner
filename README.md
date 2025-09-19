@@ -80,14 +80,7 @@ study-planner/
 └── templates/
     └── index.html
 
----
-📜 License
+Acknowledgements
 
-This project is licensed under the MIT License.
-
----
-👨‍💻 Author
-
-Tamilmani027– [GitHub](https://github.com/Tamilmani027)
-
+This project is based on FreeCodeCamp by [Tarun Singh].
 
