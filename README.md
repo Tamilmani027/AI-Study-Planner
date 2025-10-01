@@ -83,4 +83,5 @@ study-planner/
 Acknowledgements
 
 This project is based on FreeCodeCamp by [Tarun Singh].
+This project is build for learning purpose and it does not include any license.
 
