@@ -47,7 +47,7 @@ Installation
 
 ---
 
-## ▶️ Usage
+## Usage
 
 1. **Run the Flask server**
 
@@ -69,7 +69,7 @@ Installation
 
 ---
 
-📂 Project Structure
+Project Structure
 
 ```
 study-planner/
